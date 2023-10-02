@@ -11,21 +11,21 @@ import sys
 from urllib.parse import quote
 import subprocess
 
-BASE_OWNER = "googlefonts"
-BASE_REPONAME = "googlefonts-project-template"
-DUMMY_URL = "https://yourname.github.io/your-font-repository-name"
+BASE_OWNER = "George Chalkidis"
+BASE_REPONAME = "bomberg-sans"
+DUMMY_URL = "https://github.io/iframefonts/bomberg-sans"
 
 
 def repo_url(owner, name):
-    return f"https://github.com/{owner}/{name}"
+    return f"https://github.com/iframefonts/bomberg-sans"
 
 
 def web_url(owner, name):
-    return f"https://{owner}.github.io/{name}"
+    return f"https://iframefonts.github.io/bomberg-sans"
 
 
 def raw_url(owner, name):
-    return f"https://raw.githubusercontent.com/{owner}/{name}"
+    return f"https://raw.githubusercontent.com/{iframefotns}/{bomberg-sans}"
 
 
 def touch():
