@@ -9,7 +9,7 @@
 
 <p>Unleash your creativity, tell your story, and make your designs a work of art with Bomberg Sans Font. Explore the intersection of artistry and typography today!</p>
 
-[https://github.com/iframefonts/bomberg-sans/documentation/Desktop-1.png](https://github.com/iframefonts/bomberg-sans/blob/main/documentation/Desktop-1.png)
+[BOMBERG SANS](https://github.com/iframefonts/bomberg-sans/blob/main/documentation/Desktop-1.png)
 
 ## About
 
