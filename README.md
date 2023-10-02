@@ -14,7 +14,7 @@ https://github.com/iframefonts/bomberg-sans/documentation/Desktop-1.png
 ## About
 
 Designer: Georgios Chalkidis </br>
-Company: iframe font foundry
+Company: iframe type foundry
 
 
 ## Building
