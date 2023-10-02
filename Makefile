@@ -47,7 +47,7 @@ clean:
 	find . -name "*.pyc" -delete
 
 update-project-template:
-	npx update-template https://github.com/googlefonts/googlefonts-project-template/
+	npx update-template https://github.com/iframefonts/bomberg-sans/
 
 update:
 	pip install --upgrade $(dependency); pip freeze > requirements.txt
