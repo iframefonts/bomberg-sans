@@ -29,7 +29,7 @@ look at `https://github.io/iframefonts/bomberg-sans`.
 
 - kerning issues update.
 
-- **16 Feb 2024. Version 2**
+**16 Feb 2024. Version 2**
 
 - kerning issues update.
 
