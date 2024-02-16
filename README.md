@@ -29,6 +29,10 @@ look at `https://github.io/iframefonts/bomberg-sans`.
 
 - kerning issues update.
 
+- **16 Feb 2024. Version 2**
+
+- kerning issues update.
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
